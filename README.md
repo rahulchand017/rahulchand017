@@ -76,7 +76,6 @@ Fun Fact: I debug with print statements and I'm not ashamed of it
       <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
       <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white"/>
     </td>
   </tr>
@@ -143,13 +142,13 @@ Fun Fact: I debug with print statements and I'm not ashamed of it
         </a>
       </p>
       <p>
-        Retrieval-Augmented Generation chatbot for insurance queries. Retrieves policy documents and generates grounded, accurate responses using LLM + vector search.
+        Retrieval-Augmented Generation chatbot for insurance queries. Retrieves policy documents and generates grounded, accurate responses using LLM + database context retrieval
       </p>
       <p>
         <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-FAISS-0467DF?style=flat-square"/>
-        <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit"/>
+        <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs"/>
+        <img src="https://img.shields.io/badge/-Groq-F55036?style=flat-square"/>
       </p>
     </td>
   </tr>
